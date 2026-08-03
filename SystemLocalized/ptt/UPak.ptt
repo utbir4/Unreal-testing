@@ -63,9 +63,9 @@ LogEntryMsg="REG. ENTRADA:"
 
 [GrenadeLauncher]
 ; EN: DeathMessage="%k's grenade made %o blew up."
-DeathMessage="A granada de %k feita %o explodiu."
-FemDeathMessage="A granada de %k feita %o explodiu."
-FemKillMessage="A granada de %k feita %o explodiu."
+DeathMessage="A granada de %k fez %o explodir."
+FemDeathMessage="A granada de %k fez %o explodir."
+FemKillMessage="A granada de %k fez %o explodir."
 ; EN: PickupMessage="You got the UMS Grenade Launcher"
 PickupMessage="Você pegou o Lança-Granadas SMU"
 ; EN: ItemName="UMS Grenade Launcher"

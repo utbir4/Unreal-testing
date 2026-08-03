@@ -65,11 +65,11 @@ MenuName="Senhor Guerreiro"
 
 [SearchLight]
 ; EN: ExpireMessage="The Search Light batteries have died."
-ExpireMessage="A carga da bateria do Holofote se esgotou."
+ExpireMessage="A carga da bateria do Holoforte se esgotou."
 ; EN: PickupMessage="You picked up the Search Light"
-PickupMessage="Você pegou um Holofote"
+PickupMessage="Você pegou um Holoforte"
 ; EN: ItemName="Search Light"
-ItemName="Holofote"
+ItemName="Holoforte"
 
 [RazorAmmo]
 ; EN: PickupMessage="You picked up Razor Blades"
@@ -333,7 +333,7 @@ MenuName="Titã de Pedra"
 
 [EndgameHud]
 ; EN: Message1="The Skaarj escape pod has broken free from the planet's gravitational pull... barely. Yet, it's fuel reserve has been depleted, and you drift aimlessly."
-Message1="A cápsula de escape dos Skaarj escapou da força gravitacional do planeta... por muito pouco. Ainda assim o seu combustível esta esgotado e você vaga sem rumo."
+Message1="A cápsula de escape dos Skaarj escapou da força gravitacional do planeta... por muito pouco. Ainda assim o seu combustível está esgotado e você vaga sem rumo."
 ; EN: Message2="From where many have died, you have escaped. You laugh to yourself; so much has happened, but so little has changed."
 Message2="De onde muitos morreram, você conseguiu fugir. Você ri para si mesmo; muita coisa aconteceu, mas muito pouco mudou."
 ; EN: Message3="Before the crash landing, you were trapped in a cramped cell. Now, once again you are confined in a prison."
@@ -370,13 +370,13 @@ FemBlobKillMessage="foi corroída por uma Gosma"
 
 [FlakCannon]
 ; EN: DeathMessage="%o was ripped to shreds by %k's %w."
-DeathMessage="%o foi destroçado pela %k de %w."
+DeathMessage="%o foi destroçado por %k com o %w."
 ; EN: PickupMessage="You got the Flak Cannon"
 PickupMessage="Você pegou o Lança-Estilhaços"
 ; EN: ItemName="Flak Cannon"
 ItemName="Lança-Estilhaços"
-FemDeathMessage="%o foi destroçada pela %k de %w."
-FemKillMessage="%o foi destroçado pela %k de %w."
+FemDeathMessage="%o foi destroçada por %k com o %w."
+FemKillMessage="%o foi destroçado por %k com o %w."
 
 [Rifle]
 ; EN: DeathMessage="%k put a bullet through %o's head."

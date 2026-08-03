@@ -52,7 +52,7 @@ Hint="Quando enfrentar brutos, certifique-se que você tem bastante espaço para
 ; EN: Message="Log: Cook J. Strang: No reply to distress signal. Vortex Rikers' hull is too unstable to use as shelter. We found an abandoned house to use as our base camp. Maybe the native population can help us."
 Message="Diário: Cook J. Strang: Sem resposta para o sinal de socorro. O casco da Vortex Rikers está muito instável para usá-lo como abrigo. Nós encontramos uma casa abandonada para usar como nossa base de operações. Talvez a população nativa possa nos ajudar."
 ; EN: Hint="Make sure you pick up the Automag from near the house just outside Vortex Rikers. Take a refreshing swim while you're at it!"
-Hint="Certifique-se de pegar a Magnum Automática que esta perto da casa logo ao lado da Vortex Rikers. Tome um refrescante banho enquanto estiver lá!"
+Hint="Certifique-se de pegar a Magnum Automática que está perto da casa logo ao lado da Vortex Rikers. Tome um refrescante banho enquanto estiver lá!"
 
 [TranslatorEvent21]
 ; EN: Hint="When fighting the brutes, make sure you have lots of room to strafe left or right to dodge the missiles they fire at you."

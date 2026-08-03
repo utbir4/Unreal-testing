@@ -26,7 +26,7 @@ Message="Seção B: Estado 48% cheio."
 
 [TranslatorEvent10]
 ; EN: Message="Greenhouse B: Please verify that the Biowaste is being pumped through the Control Room filters and that no foreign objects are blocking the flow."
-Message="Estufa B: Por favor verfique que o resíduo tóxico estaá sendo bombeado atravéz dos filtros da sala de controle e que não há nenhum objeto estranho bloqueando o fluxo."
+Message="Estufa B: Por favor verfique se o resíduo tóxico está sendo bombeado atravéz dos filtros da sala de controle e que não há nenhum objeto estranho bloqueando o fluxo."
 
 [Trigger32]
 ; EN: Message="Lift to Noork's Elbow activated"
