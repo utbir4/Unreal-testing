@@ -2,17 +2,17 @@
 ; EN: Title="Dasa Mountain Pass"
 Title="Passagem da Montanha Dasa"
 ; EN: LevelEnterText="Entering Dasa Mouantain Pass"
-LevelEnterText="Entrando na passagem da Montanha Dasa"
+LevelEnterText="Entrando na Passagem da Montanha Dasa"
 
 [LevelSummary]
 ; EN: Title="Dasa Mountain Pass"
 Title="Passagem da Montanha Dasa"
 ; EN: LevelEnterText="Entering Dasa Mouantain Pass"
-LevelEnterText="Entrando na passagem da Montanha Dasa"
+LevelEnterText="Entrando na Passagem da Montanha Dasa"
 
 [TranslatorEvent3]
 ; EN: Message="Diary: Grok Vhul'rath: I ordered repairs to the Drawbridge again! This is getting really old. I'm sick of dealing with the Behemoths. They constantly break things and they're slobs like Aldarian Pigs. I'm anxious to get back to my homeworld."
-Message="Diário: Grok Vhul'rath: Eu ordenei reparos na ponte levadiça de novo! Isto esta se tornando  muito repetitivo-Estou cansado de lidar com os Behemots-Eles quebram as coisas constantemente, além de serem mal-educados como Porcos Aldarianos. Estou ansioso para voltar ao meu mundo."
+Message="Diário: Grok Vhul'rath: Eu ordenei reparos na ponte levadiça de novo! Isto está se tornando  muito repetitivo-Estou cansado de lidar com os Behemots-Eles quebram as coisas constantemente, além de serem mal-educados como Porcos Aldarianos. Estou ansioso para voltar ao meu mundo."
 
 [TranslatorEvent4]
 ; EN: Message="Bridge Foreman Khan Vhranna: I've about had it with Grok Vhul'rath. He's such a pompous son-of-a Bulrach. If he makes us fix the drawbridge one more time in the rain, I'm going to bust his face in."

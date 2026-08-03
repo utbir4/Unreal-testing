@@ -10,7 +10,7 @@ Title="Fim"
 ; Note: Make the text coincide with the respective audio entry in Sounds/ptt/EndSnd.ptt. If there isn't one, CREATE IT!
 OutDelays[1]=3.000000
 ; EN: CommonText[0]="Bodega Bay to shuttle craft. Please authenticate."
-CommonText[0]="Baía Bodega para nave. Favor identificar-se."
+CommonText[0]="Baía Bodega para nave. Por Favor identificar-se."
 
 [TransitionGenderEvent2]
 ; Note: Make the text coincide with the respective audio entry in Sounds/ptt/EndSnd.ptt. If there isn't one, CREATE IT!
